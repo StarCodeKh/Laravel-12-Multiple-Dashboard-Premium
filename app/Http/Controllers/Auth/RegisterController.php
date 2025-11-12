@@ -25,7 +25,7 @@ class RegisterController extends Controller
             $users = new User();
             // Call the saveNewuser method
             return $users->saveNewuser($request);
-            return redirect('login');
+            return redirect('dashboard/crm-analytics');
         } catch (\Exception $e) {
             \Log::error($e);
             return redirect()->back();

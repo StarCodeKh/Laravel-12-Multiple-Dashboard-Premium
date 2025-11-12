@@ -403,60 +403,6 @@
                 </ul>
             </div>
 
-            <!-- Sidebar Panel Body -->
-            {{-- <div x-data="{expandedItem:null}"  class="h-[calc(100%-4.5rem)] overflow-x-hidden pb-6" x-init="$el._x_simplebar = new SimpleBar($el);">
-                <ul class="flex flex-1 flex-col px-4 font-inter">
-                    <li>
-                        <a x-data="navLink" href="apps-chat.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            Chat App
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-kanban.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            Kanban Board
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-filemanager.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            File Manager
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-mail.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            Mail App
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-todo.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            Todo App
-                        </a>
-                    </li>
-                </ul>
-                <div class="my-3 mx-4 h-px bg-slate-200 dark:bg-navy-500"></div>
-                <ul class="flex flex-1 flex-col px-4 font-inter">
-                    <li>
-                        <a x-data="navLink" href="apps-nft-1.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            NFT App v1
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-nft-2.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            NFT App v2
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-pos.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            POS System
-                        </a>
-                    </li>
-                    <li>
-                        <a x-data="navLink" href="apps-travel.html" :class="isActive ? 'font-medium text-primary dark:text-accent-light' : 'text-slate-600 hover:text-slate-900 dark:text-navy-200 dark:hover:text-navy-50'" class="flex py-2 text-xs+ tracking-wide outline-none transition-colors duration-300 ease-in-out">
-                            Travel App
-                        </a>
-                    </li>
-                </ul>
-            </div> --}}
-
         </div>
     </div>
 
